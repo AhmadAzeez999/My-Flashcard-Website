@@ -1,0 +1,21 @@
+#word-of-the-day
+{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('Images/child-2715429_1920.jpg');
+    padding: 100px;
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed;
+    margin-bottom: 30px;
+    color: #f0f0f0;
+}
+
+#word-of-the-day h2
+{
+    padding-bottom: 20px;
+}
+
+#word
+{
+    font-size: 24px;
+    font-style: bold;
+}
